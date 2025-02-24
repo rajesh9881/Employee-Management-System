@@ -1,7 +1,7 @@
 # 🚀 Employee Management System  
 
 This is a **Spring Boot** project that provides a **CRUD (Create, Read, Update, Delete)** system for managing employees.  
-It includes a simple **front-end (HTML, CSS, JavaScript)** to interact with the backend API.
+It exposes REST APIs to handle employee data, using **Spring Boot, Spring JPA, and MySQL**.
 
 ## 🛠️ Features  
 - Add new employees  
@@ -12,7 +12,6 @@ It includes a simple **front-end (HTML, CSS, JavaScript)** to interact with the 
 
 ## 🏗️ Technologies Used  
 - **Backend**: Java, Spring Boot, Spring JPA, REST API  
-- **Frontend**: HTML, CSS, JavaScript  
 - **Database**: MySQL  
 - **Build Tool**: Maven  
 - **Version Control**: Git, GitHub  
